@@ -1,6 +1,6 @@
 # NAME : MOHANRAJ.S
 # REG NO : 212224100036
-###  MobileRobot-Openloopcontrol
+#  MobileRobot-Openloopcontrol
 
 # AIM:
 To develop a python control code to move the mobilerobot along the predefined path.
