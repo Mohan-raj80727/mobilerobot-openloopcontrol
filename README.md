@@ -4,8 +4,7 @@
 To develop a python control code to move the mobilerobot along the predefined path.
 
 ## Equipments Required:
-1. RoboMaster EP core
-2. Python 3.7
+
 
 ## Procedure
 
